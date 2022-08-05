@@ -22,6 +22,7 @@ public class MainMenu {
         System.out.println("1.To view All Customers name in Ascending Order");
         System.out.println("2.To Update PurchaseAmount");
         System.out.println("If you enter Key Other than 1. and 2. then Invalid choice will be Displayed");
+        System.out.println("Best of Luck!!");
         System.out.println("Enter key");
         Scanner s=new Scanner(System.in);
         int key=s.nextInt();
